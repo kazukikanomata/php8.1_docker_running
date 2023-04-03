@@ -1,14 +1,12 @@
-# php8.1_docker_running
-
 ## Dockerでの開発環境を構築した
 <p>使用PC MacBook M2</p>
 
 ## 使用技術
-<li>
+<ol>
     <ul>PHP8.1</ul>
     <ul>MYSQL</ul>
     <ul>MYSQLAdmin</ul>
-</li>
+</ol>
 
 ## 使用コマンド
 
