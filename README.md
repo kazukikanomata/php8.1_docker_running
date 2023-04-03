@@ -34,8 +34,5 @@ $ mysql -u [DBユーザー名] -p
 ```
 
 ### Port
-<li>`compose up`したらアクセスする</li>
-[http://localhost/]
-
-<li>Mysql Admin</li>
-[http://localhost:4040]
+<li>`compose up`したらアクセス http://localhost/</li>
+<li>Mysql Admin http://localhost:4040</li>
