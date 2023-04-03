@@ -32,3 +32,10 @@ $ docker exec -it mysql bash
 ```
 $ mysql -u [DBユーザー名] -p
 ```
+
+### Port
+<li>`compose up`したらアクセスする</li>
+[http://localhost/]
+
+<li>Mysql Admin</li>
+[http://localhost:4040]
