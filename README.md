@@ -2,11 +2,10 @@
 <p>使用PC MacBook M2</p>
 
 ## 使用技術
-<ol>
-    <ul>PHP8.1</ul>
-    <ul>MYSQL</ul>
-    <ul>MYSQLAdmin</ul>
-</ol>
+
+<ul>PHP8.1</ul>
+<ul>MYSQL</ul>
+<ul>MYSQLAdmin</ul>
 
 ## 使用コマンド
 
