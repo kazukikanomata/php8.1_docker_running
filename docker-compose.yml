@@ -22,7 +22,7 @@ services:
     container_name: mysql
     environment:
       MYSQL_ROOT_PASSWORD: kazuki6061
-      MYSQL_DATABASE: focus
+      MYSQL_DATABASE: spoadd
       MYSQL_USER: kazuki
       MYSQL_PASSWORD: 25251061k
       TZ: 'Asia/Tokyo'
