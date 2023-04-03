@@ -2,6 +2,7 @@
 <p>使用PC MacBook M2</p>
 
 ## 使用技術
+<p>Srcフォルダ配下にプロジェクトを設置していく</p>
 
 <ul>PHP8.1</ul>
 <ul>MYSQL</ul>
